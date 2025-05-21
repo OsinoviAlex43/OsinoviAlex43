@@ -67,10 +67,10 @@
 <h3 align="center">📬 Контакты</h3>
 
 <p align="center">
-  <a href="https://t.me/osinovialex">
+  <a href="https://t.me/osinoviialex">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:osinovialex@gmail.com">
+  <a href="mailto:osinovijaleksej@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

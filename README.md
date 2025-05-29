@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">🧑‍💻 Алексей Осиновый</h1>
-<h3 align="center">Java Backend Developer | Spring Enthusiast | Clean Code Advocate</h3>
+<h3 align="center">Java Backend Developer</h3>
 
 ---
 

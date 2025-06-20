@@ -34,15 +34,8 @@
 
 ---
 
-<!-- 📈 СТАТИСТИКА -->
-<h2 align="center">📊 GitHub Статистика</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsinoviAlex43&show_icons=true&theme=tokyonight&hide_rank=true&hide=contribs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsinoviAlex43&theme=tokyonight" />
-</p>
 
----
 
 <!-- 🧠 ИЗУЧАЮ -->
 <h2 align="center">🧠 Сейчас изучаю</h2>

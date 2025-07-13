@@ -15,9 +15,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgresql,mongodb,docker,git,postman,github,intellij" />
 </p>
 
-
-</p>
-
 ---
 
 <!-- 🚀 ПРОЕКТЫ -->
@@ -34,18 +31,8 @@
 
 ---
 
-
-
-
 <!-- 🧠 ИЗУЧАЮ -->
-<h2 align="center">🧠 Сейчас изучаю</h2>
-
-<p align="center">
- 
-  <img src="https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  
-</p>
+<h2 align="center">🧠 Сейчас нахожусь на стажировке в Innowise</h2>
 
 ---
 
